@@ -58,7 +58,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   height: 100vh; /* 100% del alto de la ventana */
-  overflow: hidden; /* Evitar el desplazamiento vertical */
+  
 }
 
 
